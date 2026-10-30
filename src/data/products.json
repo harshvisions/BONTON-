@@ -1,0 +1,363 @@
+[
+  {
+    "id": "prod-1",
+    "name": "Belgian Truffle Noir Cake",
+    "tagline": "54% Callebaut Dark Chocolate Ganache & Dutch Cocoa Sponge",
+    "category": "cakes",
+    "price": 899,
+    "originalPrice": 1099,
+    "rating": 4.9,
+    "reviewsCount": 284,
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1606890737304-57a1ca8a5b62?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Our signature masterpiece inspired by classic Belgian chocolatiers. Layered with moist Dutch cocoa sponge and enveloped in silky 54% dark chocolate ganache, topped with edible 24k gold leaf and artisan cocoa nibs.",
+    "flavor": "Dark Belgian Chocolate",
+    "sizes": [
+      { "label": "Petite", "weight": "0.5 kg", "priceMultiplier": 1, "serves": "4-6 slices" },
+      { "label": "Classic", "weight": "1.0 kg", "priceMultiplier": 1.85, "serves": "8-10 slices" },
+      { "label": "Grand", "weight": "1.5 kg", "priceMultiplier": 2.7, "serves": "12-16 slices" },
+      { "label": "Royal Feast", "weight": "2.0 kg", "priceMultiplier": 3.5, "serves": "18-22 slices" }
+    ],
+    "isEggless": true,
+    "isBestseller": true,
+    "isChefSpecial": true,
+    "prepTime": "Ready in 2 Hours",
+    "ingredients": ["54% Belgian Callebaut Chocolate", "Dutch Cocoa", "Madagascar Vanilla", "Pure Butter", "Organic Flour"]
+  },
+  {
+    "id": "prod-2",
+    "name": "Wild Berry Mascarpone Naked Cake",
+    "tagline": "Handcrafted Chiffon with Raspberry Compote & Whipped Italian Mascarpone",
+    "category": "cakes",
+    "price": 999,
+    "originalPrice": 1249,
+    "rating": 4.9,
+    "reviewsCount": 192,
+    "image": "https://images.unsplash.com/photo-1571115177098-24ec42ed204d?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1571115177098-24ec42ed204d?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Freshly harvested organic blueberries, raspberries, and blackberries simmered into a fragrant compote, nestled between layers of airy vanilla bean chiffon and silky Italian mascarpone cheese.",
+    "flavor": "Wild Berries & Mascarpone",
+    "sizes": [
+      { "label": "Petite", "weight": "0.5 kg", "priceMultiplier": 1, "serves": "4-6 slices" },
+      { "label": "Classic", "weight": "1.0 kg", "priceMultiplier": 1.9, "serves": "8-10 slices" },
+      { "label": "Grand", "weight": "1.5 kg", "priceMultiplier": 2.8, "serves": "12-16 slices" }
+    ],
+    "isEggless": true,
+    "isBestseller": true,
+    "isChefSpecial": false,
+    "prepTime": "Ready in 3 Hours",
+    "ingredients": ["Fresh Forest Berries", "Italian Mascarpone", "Bourbon Vanilla", "Whipping Cream"]
+  },
+  {
+    "id": "prod-3",
+    "name": "Lotus Biscoff Baked Cheesecake",
+    "tagline": "New York Style Cheesecake on Crushed Speculoos Cookie Base",
+    "category": "cakes",
+    "price": 1049,
+    "originalPrice": 1299,
+    "rating": 4.8,
+    "reviewsCount": 315,
+    "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Slowly baked for 4 hours to achieve an ultra-smooth, melt-in-mouth texture. Crowned with warm melted Biscoff cookie spread and adorned with crunchy Lotus biscuit shards.",
+    "flavor": "Lotus Biscoff Caramel",
+    "sizes": [
+      { "label": "Petite", "weight": "0.5 kg", "priceMultiplier": 1, "serves": "4-6 slices" },
+      { "label": "Classic", "weight": "1.0 kg", "priceMultiplier": 1.85, "serves": "8-10 slices" }
+    ],
+    "isEggless": true,
+    "isBestseller": true,
+    "isChefSpecial": true,
+    "prepTime": "Ready in 2 Hours",
+    "ingredients": ["Lotus Biscoff Spread", "Philadelphia Cream Cheese", "Brown Sugar", "Speculoos Crust"]
+  },
+  {
+    "id": "prod-4",
+    "name": "Persian Pistachio & Rosewater Elegance",
+    "tagline": "Iranian Pistachio Flour, Rose Milk Ganache & Candied Rose Petals",
+    "category": "cakes",
+    "price": 1149,
+    "originalPrice": 1399,
+    "rating": 5.0,
+    "reviewsCount": 147,
+    "image": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?auto=format&fit=crop&w=1000&q=80",
+    "description": "An aristocratic confection celebrating Middle Eastern patisserie artistry. Delicate pistachio sponge infused with green cardamom, layered with whipped rosewater white chocolate ganache.",
+    "flavor": "Pistachio Rosewater",
+    "sizes": [
+      { "label": "Petite", "weight": "0.5 kg", "priceMultiplier": 1, "serves": "4-6 slices" },
+      { "label": "Classic", "weight": "1.0 kg", "priceMultiplier": 1.9, "serves": "8-10 slices" }
+    ],
+    "isEggless": true,
+    "isBestseller": false,
+    "isChefSpecial": true,
+    "prepTime": "Ready in 3 Hours",
+    "ingredients": ["Iranian Pistachios", "Organic Rosewater", "Cardamom", "Belgian White Chocolate"]
+  },
+  {
+    "id": "prod-5",
+    "name": "Ferrero Hazelnut Crunch Royale",
+    "tagline": "Roasted Italian Hazelnuts, Nutella Mousse & Crisp Feuilletine",
+    "category": "cakes",
+    "price": 949,
+    "originalPrice": 1199,
+    "rating": 4.9,
+    "reviewsCount": 268,
+    "image": "https://images.unsplash.com/photo-1549576490-b0b4831ef60a?auto=format&fit=crop&w=1000&q=80",
+    "description": "Every chocolate lover's dream: crackling hazelnut wafer crunch layered under velvety Nutella mousse, studded with whole roasted Piedmont hazelnuts and Ferrero Rocher truffles.",
+    "flavor": "Nutella Hazelnut Praline",
+    "sizes": [
+      { "label": "Petite", "weight": "0.5 kg", "priceMultiplier": 1, "serves": "4-6 slices" },
+      { "label": "Classic", "weight": "1.0 kg", "priceMultiplier": 1.85, "serves": "8-10 slices" },
+      { "label": "Grand", "weight": "1.5 kg", "priceMultiplier": 2.75, "serves": "12-16 slices" }
+    ],
+    "isEggless": true,
+    "isBestseller": true,
+    "isChefSpecial": false,
+    "prepTime": "Ready in 2 Hours",
+    "ingredients": ["Piedmont Hazelnuts", "French Feuilletine", "Nutella", "Callebaut Milk Chocolate"]
+  },
+  {
+    "id": "prod-6",
+    "name": "Vintage Red Velvet Supreme",
+    "tagline": "Traditional Velvet Crumb with Whipped Cream Cheese Frosting",
+    "category": "cakes",
+    "price": 799,
+    "originalPrice": 999,
+    "rating": 4.8,
+    "reviewsCount": 210,
+    "image": "https://images.unsplash.com/photo-1586788680434-30d324b2d46f?auto=format&fit=crop&w=1000&q=80",
+    "description": "Tender ruby-red cocoa sponge complemented by our signature slightly tangy Philadelphia cream cheese frosting. Elegant, velvety, and endlessly timeless.",
+    "flavor": "Classic Red Velvet",
+    "sizes": [
+      { "label": "Petite", "weight": "0.5 kg", "priceMultiplier": 1, "serves": "4-6 slices" },
+      { "label": "Classic", "weight": "1.0 kg", "priceMultiplier": 1.8, "serves": "8-10 slices" }
+    ],
+    "isEggless": true,
+    "isBestseller": false,
+    "isChefSpecial": false,
+    "prepTime": "Ready in 2 Hours",
+    "ingredients": ["Buttermilk Crumb", "Philadelphia Cream Cheese", "Cocoa Powder", "Pure Butter"]
+  },
+  {
+    "id": "prod-7",
+    "name": "Parisian Raspberry & Frangipane Tart",
+    "tagline": "Butter Sablé Crust, Almond Cream & Glazed Fresh Raspberries",
+    "category": "pastries",
+    "price": 280,
+    "originalPrice": 340,
+    "rating": 4.9,
+    "reviewsCount": 118,
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=1000&q=80",
+    "description": "Crisp golden sablé crust baked with almond frangipane cream, crowned with fresh imported raspberries brushed with delicate fruit glaze.",
+    "flavor": "Almond & Raspberry",
+    "sizes": [
+      { "label": "Individual Tart", "weight": "150g", "priceMultiplier": 1, "serves": "1 person" },
+      { "label": "Trio Box (3 pcs)", "weight": "450g", "priceMultiplier": 2.8, "serves": "2-3 persons" }
+    ],
+    "isEggless": true,
+    "isBestseller": true,
+    "isChefSpecial": true,
+    "prepTime": "Instant Delivery",
+    "ingredients": ["French Butter Sablé", "California Almond Meal", "Fresh Raspberries", "Vanilla Custard"]
+  },
+  {
+    "id": "prod-8",
+    "name": "Fleur de Sel Caramel Éclair",
+    "tagline": "Crisp Choux, Salted Butter Caramel Cream & Mirror Toffee Glaze",
+    "category": "pastries",
+    "price": 240,
+    "originalPrice": 290,
+    "rating": 4.8,
+    "reviewsCount": 94,
+    "image": "https://images.unsplash.com/photo-1509365465985-25d11c17e812?auto=format&fit=crop&w=1000&q=80",
+    "description": "Golden baked choux pastry pipe-filled with slow-simmered Guérande fleur de sel caramel pastry cream, dipped in caramel mirror glaze.",
+    "flavor": "Salted Butter Caramel",
+    "sizes": [
+      { "label": "Single Éclair", "weight": "120g", "priceMultiplier": 1, "serves": "1 person" },
+      { "label": "Twin Pack", "weight": "240g", "priceMultiplier": 1.9, "serves": "2 persons" }
+    ],
+    "isEggless": true,
+    "isBestseller": false,
+    "isChefSpecial": true,
+    "prepTime": "Instant Delivery",
+    "ingredients": ["French Choux Pastry", "Brittany Fleur de Sel", "Cultured Butter", "Caramel Toffee"]
+  },
+  {
+    "id": "prod-9",
+    "name": "San Sebastian Burnt Basque Slice",
+    "tagline": "Caramelized Top, Gooey Molten Custard Center",
+    "category": "pastries",
+    "price": 320,
+    "originalPrice": 380,
+    "rating": 5.0,
+    "reviewsCount": 230,
+    "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?auto=format&fit=crop&w=1000&q=80",
+    "description": "Baked at intense heat to achieve a deeply caramelized mahogany crust while preserving an ultra-creamy, molten core.",
+    "flavor": "Burnt Vanilla Caramel",
+    "sizes": [
+      { "label": "Generous Slice", "weight": "200g", "priceMultiplier": 1, "serves": "1-2 persons" },
+      { "label": "Mini Whole Wheel", "weight": "500g", "priceMultiplier": 2.4, "serves": "4 persons" }
+    ],
+    "isEggless": true,
+    "isBestseller": true,
+    "isChefSpecial": false,
+    "prepTime": "Instant Delivery",
+    "ingredients": ["Spanish Cream Cheese", "Double Cream", "Madagascar Vanilla Bean", "Cane Sugar"]
+  },
+  {
+    "id": "prod-10",
+    "name": "French Opéra Slice Tradition",
+    "tagline": "Almond Joconde, Espresso Syrup & Bittersweet Ganache",
+    "category": "pastries",
+    "price": 290,
+    "originalPrice": 350,
+    "rating": 4.7,
+    "reviewsCount": 88,
+    "image": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?auto=format&fit=crop&w=1000&q=80",
+    "description": "Six precision layers of almond sponge drenched in dark roast espresso syrup, French coffee buttercream, and dark chocolate glaze.",
+    "flavor": "Espresso Mocha Chocolate",
+    "sizes": [
+      { "label": "Artisan Slice", "weight": "160g", "priceMultiplier": 1, "serves": "1 person" }
+    ],
+    "isEggless": true,
+    "isBestseller": false,
+    "isChefSpecial": false,
+    "prepTime": "Instant Delivery",
+    "ingredients": ["Almond Flour", "Dark Roast Arabica", "French Buttercream", "Bittersweet Chocolate"]
+  },
+  {
+    "id": "prod-11",
+    "name": "Artisan Country Sourdough Boule",
+    "tagline": "48-Hour Wild Levain Fermentation with Blistered Crust",
+    "category": "breads",
+    "price": 260,
+    "originalPrice": 320,
+    "rating": 4.9,
+    "reviewsCount": 174,
+    "image": "https://images.unsplash.com/photo-1589367920969-ab8e050bbb04?auto=format&fit=crop&w=1000&q=80",
+    "description": "Naturally leavened using our 6-year-old mother starter. Stone-milled rye and wheat flours fermented for 48 hours and baked on volcanic stone decks.",
+    "flavor": "Mild Tangy Wild Sourdough",
+    "sizes": [
+      { "label": "Standard Boule", "weight": "650g", "priceMultiplier": 1, "serves": "Loaf for 4-6" }
+    ],
+    "isEggless": true,
+    "isBestseller": true,
+    "isChefSpecial": true,
+    "prepTime": "Fresh Baked Today",
+    "ingredients": ["Organic Wheat Flour", "Dark Rye", "Wild Starter Levain", "Mineral Water", "Sea Salt"]
+  },
+  {
+    "id": "prod-12",
+    "name": "Brioche Feuilletée Swirl Loaf",
+    "tagline": "Laminated Butter Brioche with Crunchy Pearl Sugar",
+    "category": "breads",
+    "price": 340,
+    "originalPrice": 420,
+    "rating": 4.8,
+    "reviewsCount": 105,
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=1000&q=80",
+    "description": "Cross between a flaky French croissant and a rich brioche. Hundreds of paper-thin buttery layers finished with Swedish pearl sugar crystals.",
+    "flavor": "Golden Butter & Honey",
+    "sizes": [
+      { "label": "Full Loaf", "weight": "500g", "priceMultiplier": 1, "serves": "Loaf for 4" }
+    ],
+    "isEggless": false,
+    "isBestseller": false,
+    "isChefSpecial": true,
+    "prepTime": "Fresh Baked Today",
+    "ingredients": ["European Charentes-Poitou Butter", "Free Range Eggs", "Organic Honey", "Unbleached Flour"]
+  },
+  {
+    "id": "prod-13",
+    "name": "Genovese Garlic & Rosemary Focaccia",
+    "tagline": "Cold Pressed Extra Virgin Olive Oil & Slow Confit Garlic",
+    "category": "breads",
+    "price": 240,
+    "originalPrice": 290,
+    "rating": 4.9,
+    "reviewsCount": 162,
+    "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=1000&q=80",
+    "description": "Deep dimpled Italian flatbread drenched in Greek cold-pressed olive oil, studded with caramelized whole confit garlic and fresh garden rosemary sprigs.",
+    "flavor": "Confit Garlic & Garden Herbs",
+    "sizes": [
+      { "label": "Square Slab", "weight": "400g", "priceMultiplier": 1, "serves": "3-4 persons" }
+    ],
+    "isEggless": true,
+    "isBestseller": false,
+    "isChefSpecial": false,
+    "prepTime": "Fresh Baked Today",
+    "ingredients": ["Extra Virgin Olive Oil", "Fresh Rosemary", "Slow Confit Garlic", "Maldon Flaky Salt"]
+  },
+  {
+    "id": "prod-14",
+    "name": "Celebration Cupcake Box of 6",
+    "tagline": "Red Velvet, Belgian Choc, Biscoff, Rose & Lemon Meringue",
+    "category": "cupcakes",
+    "price": 649,
+    "originalPrice": 799,
+    "rating": 4.9,
+    "reviewsCount": 243,
+    "image": "https://images.unsplash.com/photo-1576618148400-f54bed99fcfd?auto=format&fit=crop&w=1000&q=80",
+    "description": "Six handcrafted artisan cupcakes presented in a gold-embossed showcase box. Each topped with signature swirls of silky ganache and edible gold flakes.",
+    "flavor": "Assorted Gourmet Flavors",
+    "sizes": [
+      { "label": "Box of 6", "weight": "6 pieces", "priceMultiplier": 1, "serves": "6 persons" },
+      { "label": "Box of 12 (Party Pack)", "weight": "12 pieces", "priceMultiplier": 1.85, "serves": "12 persons" }
+    ],
+    "isEggless": true,
+    "isBestseller": true,
+    "isChefSpecial": false,
+    "prepTime": "Ready in 1 Hour",
+    "ingredients": ["Belgian Ganache", "Cream Cheese", "Lemon Curd", "Lotus Spread", "Edible Pearls"]
+  },
+  {
+    "id": "prod-15",
+    "name": "Signature Macaron Jewel Box (12 Pcs)",
+    "tagline": "Crisp Parisian Almond Shells with Rich Silk Ganache Fillings",
+    "category": "cupcakes",
+    "price": 899,
+    "originalPrice": 1099,
+    "rating": 5.0,
+    "reviewsCount": 189,
+    "image": "https://images.unsplash.com/photo-1569864358642-9d1684040f43?auto=format&fit=crop&w=1000&q=80",
+    "description": "Authentic French macarons crafted with ultra-fine almond flour. Flavors include Pistachio Sicilian, Dark Valrhona, Salted Caramel, Passionfruit, Lavender Honey, and Rose Petal.",
+    "flavor": "6 Assorted French Flavors",
+    "sizes": [
+      { "label": "Jewel Box of 12", "weight": "12 pieces", "priceMultiplier": 1, "serves": "Gift Box" },
+      { "label": "Grand Box of 24", "weight": "24 pieces", "priceMultiplier": 1.8, "serves": "Deluxe Gift" }
+    ],
+    "isEggless": true,
+    "isBestseller": true,
+    "isChefSpecial": true,
+    "prepTime": "Ready in 1 Hour",
+    "ingredients": ["Extra Fine Almond Flour", "Valrhona Ganache", "Sicilian Pistachio Paste", "Passionfruit"]
+  },
+  {
+    "id": "prod-16",
+    "name": "The Royal Bon Ton Indulgence Hamper",
+    "tagline": "Plum Tea Cake, 12 Macarons, Truffle Jar, Scented Candle & Tea",
+    "category": "hampers",
+    "price": 2499,
+    "originalPrice": 2999,
+    "rating": 5.0,
+    "reviewsCount": 96,
+    "image": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=1000&q=80",
+    "description": "Our most opulent gifting suite: handcrafted wooden trunk with antique brass clasp, packed with an artisan spiced dry tea cake, 12 luxury macarons, 2 hazelnut chocolate spread jars, and an amber soy wax candle.",
+    "flavor": "Curated Luxury Assortment",
+    "sizes": [
+      { "label": "Grand Hamper Trunk", "weight": "2.2 kg Total", "priceMultiplier": 1, "serves": "Gift Suite" }
+    ],
+    "isEggless": true,
+    "isBestseller": true,
+    "isChefSpecial": true,
+    "prepTime": "Ready in 4 Hours",
+    "ingredients": ["Rich Spiced Plum Cake", "Handmade Truffles", "Artisan Herbal Tea", "Aromatherapy Candle"]
+  }
+]

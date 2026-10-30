@@ -1,0 +1,190 @@
+[
+  {
+    "id": "BT-98231",
+    "customer": {
+      "name": "Rhea Kapoor",
+      "phone": "+91 98111 87654",
+      "email": "rhea.kapoor@outlook.com",
+      "address": "House 24, Yamunapuram Colony, Bulandshahr - 203001"
+    },
+    "items": [
+      {
+        "id": "prod-1",
+        "name": "Belgian Truffle Noir Cake",
+        "weight": "1.0 kg",
+        "quantity": 1,
+        "price": 1663,
+        "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=200&q=80",
+        "customMessage": "Happy 30th Vikram! Forever Indulgent 🎂"
+      }
+    ],
+    "slot": "Midnight Special (11:00 PM - 12:00 AM)",
+    "date": "Today",
+    "subtotal": 1663,
+    "discount": 0,
+    "total": 1746,
+    "payment": { "method": "UPI (Google Pay)", "status": "Paid" },
+    "fulfillmentStatus": "Baking in Oven",
+    "createdAt": "18 mins ago",
+    "notes": "Include 2 gold spiral candles and knife kit."
+  },
+  {
+    "id": "BT-98230",
+    "customer": {
+      "name": "Devansh Mehra",
+      "phone": "+91 98712 34567",
+      "email": "devansh.m@gmail.com",
+      "address": "B-4, Civil Lines, Near DM Residence, Bulandshahr - 203001"
+    },
+    "items": [
+      {
+        "id": "prod-3",
+        "name": "Lotus Biscoff Baked Cheesecake",
+        "weight": "0.5 kg",
+        "quantity": 1,
+        "price": 1049,
+        "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?auto=format&fit=crop&w=200&q=80"
+      },
+      {
+        "id": "prod-15",
+        "name": "Signature Macaron Jewel Box",
+        "weight": "12 pieces",
+        "quantity": 1,
+        "price": 899,
+        "image": "https://images.unsplash.com/photo-1569864358642-9d1684040f43?auto=format&fit=crop&w=200&q=80"
+      }
+    ],
+    "slot": "Evening (7:00 PM - 10:00 PM)",
+    "date": "Today",
+    "subtotal": 1948,
+    "discount": 389,
+    "total": 1636,
+    "payment": { "method": "Credit Card (HDFC Diners)", "status": "Paid" },
+    "fulfillmentStatus": "Ready for Dispatch",
+    "createdAt": "42 mins ago",
+    "notes": "Chilled dry ice pack requested."
+  },
+  {
+    "id": "BT-98229",
+    "customer": {
+      "name": "Natasha Roy",
+      "phone": "+91 99100 99887",
+      "email": "natasha.roy@studio.in",
+      "address": "Shop 12, Bhoor Crossing Main Road, Bulandshahr - 203001"
+    },
+    "items": [
+      {
+        "id": "prod-7",
+        "name": "Parisian Raspberry & Frangipane Tart",
+        "weight": "450g (Trio Box)",
+        "quantity": 1,
+        "price": 784,
+        "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=200&q=80"
+      },
+      {
+        "id": "prod-11",
+        "name": "Artisan Country Sourdough Boule",
+        "weight": "650g",
+        "quantity": 1,
+        "price": 260,
+        "image": "https://images.unsplash.com/photo-1589367920969-ab8e050bbb04?auto=format&fit=crop&w=200&q=80"
+      }
+    ],
+    "slot": "Standard (4:00 PM - 7:00 PM)",
+    "date": "Today",
+    "subtotal": 1044,
+    "discount": 104,
+    "total": 987,
+    "payment": { "method": "NetBanking (ICICI)", "status": "Paid" },
+    "fulfillmentStatus": "Out for Chilled Delivery",
+    "createdAt": "1 hr 15 mins ago",
+    "notes": "Rider: Vijay Kumar (Van #04, Temp: 4.2°C)"
+  },
+  {
+    "id": "BT-98228",
+    "customer": {
+      "name": "Kunal Singhal",
+      "phone": "+91 98200 44332",
+      "email": "kunal.singhal@veritas.com",
+      "address": "78 Awas Vikas 1, DM Road, Bulandshahr - 203001"
+    },
+    "items": [
+      {
+        "id": "prod-16",
+        "name": "The Royal Bon Ton Indulgence Hamper",
+        "weight": "2.2 kg Total",
+        "quantity": 1,
+        "price": 2499,
+        "image": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=200&q=80",
+        "customMessage": "With highest compliments from Singhal Enterprises"
+      }
+    ],
+    "slot": "Afternoon Express",
+    "date": "Today",
+    "subtotal": 2499,
+    "discount": 500,
+    "total": 2099,
+    "payment": { "method": "Corporate Account", "status": "Paid" },
+    "fulfillmentStatus": "Delivered",
+    "createdAt": "3 hrs ago",
+    "notes": "Delivered to reception with signed acknowledgment."
+  },
+  {
+    "id": "BT-98227",
+    "customer": {
+      "name": "Pooja Hegde",
+      "phone": "+91 97118 77665",
+      "email": "pooja.h@yahoo.com",
+      "address": "Sector 2, Circular Road, Bulandshahr - 203001"
+    },
+    "items": [
+      {
+        "id": "prod-6",
+        "name": "Vintage Red Velvet Supreme",
+        "weight": "1.5 kg",
+        "quantity": 1,
+        "price": 2238,
+        "image": "https://images.unsplash.com/photo-1586788680434-30d324b2d46f?auto=format&fit=crop&w=200&q=80",
+        "customMessage": "Happy Birthday Beautiful! 💖"
+      }
+    ],
+    "slot": "Standard (4:00 PM - 7:00 PM)",
+    "date": "Today",
+    "subtotal": 2238,
+    "discount": 223,
+    "total": 2115,
+    "payment": { "method": "Cash on Delivery", "status": "Pending Verification" },
+    "fulfillmentStatus": "Delivered",
+    "createdAt": "4 hrs ago",
+    "notes": "Cash collected: ₹2,115. Handed to accounts."
+  },
+  {
+    "id": "BT-98226",
+    "customer": {
+      "name": "Siddharth Verma",
+      "phone": "+91 98105 11223",
+      "email": "sid.verma@techlabs.io",
+      "address": "Opposite District Hospital, Kala Aam Chauraha, Bulandshahr - 203001"
+    },
+    "items": [
+      {
+        "id": "prod-2",
+        "name": "Wild Berry Mascarpone Naked Cake",
+        "weight": "1.0 kg",
+        "quantity": 1,
+        "price": 1898,
+        "image": "https://images.unsplash.com/photo-1571115177098-24ec42ed204d?auto=format&fit=crop&w=200&q=80",
+        "customMessage": "Silver Jubilee Anniversary Mom & Dad! 🥂"
+      }
+    ],
+    "slot": "Midnight Special (11:00 PM - 12:00 AM)",
+    "date": "Today",
+    "subtotal": 1898,
+    "discount": 379,
+    "total": 1595,
+    "payment": { "method": "UPI (PhonePe)", "status": "Paid" },
+    "fulfillmentStatus": "Baking in Oven",
+    "createdAt": "55 mins ago",
+    "notes": "Eggless certification sticker required on luxury gold box."
+  }
+]

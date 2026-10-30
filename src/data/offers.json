@@ -1,0 +1,50 @@
+[
+  {
+    "id": "offer-1",
+    "badge": "★ BON TON SIGNATURE OFFER",
+    "title": "Bulandshahr's Favourite,",
+    "highlight": "Handcrafted Celebration Cakes",
+    "subtitle": "Get flat 20% off on handcrafted designer cakes & decadent chocolate patisserie. Freshly pulled from our ovens in Yamunapuram & Bhoor.",
+    "code": "BONTON20",
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=1200&q=85",
+    "ctaText": "Order Signature Cakes",
+    "categoryTarget": "cakes",
+    "accentColor": "#C59B27"
+  },
+  {
+    "id": "offer-2",
+    "badge": "⚡ MIDNIGHT EXPRESS DELIVERY",
+    "title": "Surprise Your Loved Ones,",
+    "highlight": "At the Stroke of 12",
+    "subtitle": "Guaranteed chilled delivery across Bulandshahr city between 11 PM and 12 AM. Complimentary candle & custom message card.",
+    "code": "MIDNIGHT15",
+    "image": "https://images.unsplash.com/photo-1571115177098-24ec42ed204d?auto=format&fit=crop&w=1200&q=85",
+    "ctaText": "Explore Berry Specials",
+    "categoryTarget": "cakes",
+    "accentColor": "#D94665"
+  },
+  {
+    "id": "offer-3",
+    "badge": "🥐 MORNING OVEN SPECIAL",
+    "title": "Fresh Daily Breads &",
+    "highlight": "Warm Flaky Pastries",
+    "subtitle": "Authentic stone-baked breads, French butter croissants, and fruit tarts. Special morning discount on fresh bakery treats.",
+    "code": "SWEET10",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=1200&q=85",
+    "ctaText": "Explore Bakery & Breads",
+    "categoryTarget": "breads",
+    "accentColor": "#D97706"
+  },
+  {
+    "id": "offer-4",
+    "badge": "🎁 LUXURY GIFT HAMPERS",
+    "title": "The Bon Ton Royal Trunk",
+    "highlight": "An Unforgettable Gift",
+    "subtitle": "Handmade wooden trunks with assorted French macarons, dry tea cakes, and single-origin chocolate truffles.",
+    "code": "BONTON20",
+    "image": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=1200&q=85",
+    "ctaText": "View Luxury Hampers",
+    "categoryTarget": "hampers",
+    "accentColor": "#8B5CF6"
+  }
+]

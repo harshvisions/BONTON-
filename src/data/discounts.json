@@ -1,0 +1,67 @@
+[
+  {
+    "id": "disc-1",
+    "code": "BONTON20",
+    "type": "percentage",
+    "value": 20,
+    "targetScope": "category",
+    "targetName": "Designer Cakes",
+    "minOrder": 799,
+    "maxDiscount": 500,
+    "status": "Active",
+    "usageCount": 142,
+    "validUntil": "2026-12-31"
+  },
+  {
+    "id": "disc-2",
+    "code": "SWEET10",
+    "type": "percentage",
+    "value": 10,
+    "targetScope": "storewide",
+    "targetName": "All Creations",
+    "minOrder": 399,
+    "maxDiscount": 300,
+    "status": "Active",
+    "usageCount": 215,
+    "validUntil": "2026-11-30"
+  },
+  {
+    "id": "disc-3",
+    "code": "MIDNIGHTMAGIC",
+    "type": "percentage",
+    "value": 12,
+    "targetScope": "storewide",
+    "targetName": "Midnight Deliveries",
+    "minOrder": 899,
+    "maxDiscount": 350,
+    "status": "Active",
+    "usageCount": 89,
+    "validUntil": "2026-12-15"
+  },
+  {
+    "id": "disc-4",
+    "code": "ROYALTRUNK300",
+    "type": "flat",
+    "value": 300,
+    "targetScope": "item",
+    "targetName": "The Royal Bon Ton Indulgence Hamper",
+    "minOrder": 2000,
+    "maxDiscount": 300,
+    "status": "Active",
+    "usageCount": 64,
+    "validUntil": "2026-11-20"
+  },
+  {
+    "id": "disc-5",
+    "code": "BISCOFF150",
+    "type": "flat",
+    "value": 150,
+    "targetScope": "item",
+    "targetName": "Lotus Biscoff Baked Cheesecake",
+    "minOrder": 900,
+    "maxDiscount": 150,
+    "status": "Inactive",
+    "usageCount": 47,
+    "validUntil": "2026-10-31"
+  }
+]
